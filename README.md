@@ -1,8 +1,7 @@
-# React + Vite
+## Login Otp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Implemented custom input form which handles the input box where you can enter a number and then an fill otp on the input field.
 
-Currently, two official plugins are available:
+# It handles features like focus on first input box initially then after entering a number move to next input box.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# The entered text should be a number.
